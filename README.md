@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5w5n9h6d5v9jfmfk?svg=true)](https://ci.appveyor.com/project/kastra85/applicationdebitcard-cmoks)
